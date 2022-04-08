@@ -1,0 +1,40 @@
+
+    h1, h2, h3 {
+color: rgb(38, 129, 20);
+
+text-align: center;
+font-family: 'Rubik', sans-serif;
+
+}
+
+.strophe {
+font-size: 18px;
+}
+
+#content {
+text-align: center;
+}
+
+
+#content,.strophe {
+color: rgb(151, 146, 146);
+font-family: 'Rubik', sans-serif;
+text-align: center;
+text-indent: 0ch;
+}
+
+body > p {
+    font-size: 25px;
+    text-align: center;
+}
+
+#content,
+ .strophe:hover {
+color: rgb(112, 32, 32);
+font-family: 'Rubik', sans-serif;
+}
+
+.strophe:first-child {
+color: rgb(108, 108, 202);
+}
+ /* Styles go here */
